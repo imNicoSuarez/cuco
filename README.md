@@ -1,4 +1,2 @@
-Comand Terminal
-===============
-
-Custom command terminal.
+[Cu]stom [Co]mmand
+==================
