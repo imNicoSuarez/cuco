@@ -1,4 +1,4 @@
-CoManD TERMinal
-= =  = ====
+Comand Terminal
+===============
 
 Custom command terminal.
